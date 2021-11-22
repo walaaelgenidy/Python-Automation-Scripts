@@ -4,4 +4,6 @@
 
  2-Create 2 subnets in a VPC
 
+ 3-Add Env_Tags to EC2
+
 # Python-Projects:
